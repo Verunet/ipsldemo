@@ -24,7 +24,7 @@
             "value": "IPSL-AGY-TST-nsg"
         },
         "adminPassword": {
-            "value": "P@ssw0rd"
+            "value": "********"
         },
         "subnetName": {
             "value": "Backend"
